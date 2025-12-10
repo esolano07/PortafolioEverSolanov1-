@@ -1,2 +1,2 @@
 # PortafolioEverSolanov1
-Portafolio Ever Solano. Este nuevo portafolio fue creado debido a que el primero que hice se me elimino y no lo pude recuperar, este proyecto tiene guardado la mayor parte de funciones vistas en la clases. Disculpas por el caso profesor y espero que me pueda aceptar este portafolio.
+Portafolio Ever Solano. Este nuevo portafolio fue creado debido a que el primero que hice lo elimine por error(iba borrar el repositorio propio que tenia para el proyecto y no me di cuenta y borre el portafolio original) y no lo pude recuperar, este proyecto tiene guardado la mayor parte de funciones vistas en la clases. Disculpas por el caso profesor y espero que me pueda aceptar este portafolio.
